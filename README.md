@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="banner.png" alt="Harivardini Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Harivardini05/Harivardini05/main/banner.jpg" alt="Harivardini Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Harivardini 👋</h1>
