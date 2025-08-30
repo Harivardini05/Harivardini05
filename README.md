@@ -63,8 +63,9 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Harivardini05/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Harivardini05&label=Profile%20Views&color=blueviolet&style=flat" alt="Harivardini profile views" />
 </p>
+
 
 ---
 
