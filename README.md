@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harivardini05/Harivardini05/main/banner.jpg" alt="Harivardini Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Harivardini05/Harivardini05/main/banner.jpg" alt="Harivardini Banner" width="50%"/>
 </p>
 
 <h1 align="center">Hi, I'm Harivardini 👋</h1>
@@ -69,6 +69,5 @@
 ---
 
 ## 🤝 Connect
-- LinkedIn: <YOUR_LINKEDIN_URL>
-- Portfolio: <YOUR_PORTFOLIO_URL>
-- Email: <YOUR_EMAIL>
+- LinkedIn: https://www.linkedin.com/in/harivardhini-k-2002bb264/
+- Email: harivardhini012@gmail.com
